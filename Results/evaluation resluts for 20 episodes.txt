@@ -1,0 +1,21 @@
+Test episode: 1   gained reward: 256.3287448846416
+ Test episode: 2   gained reward: -266.5255463715048
+ Test episode: 3   gained reward: -83.38799896225918
+ Test episode: 4   gained reward: -209.25251056503032
+ Test episode: 5   gained reward: 248.78689041237715
+ Test episode: 6   gained reward: 237.58942444329242
+ Test episode: 7   gained reward: 205.72654972013942
+ Test episode: 8   gained reward: 131.55612561734586
+ Test episode: 9   gained reward: 177.84647690540885
+ Test episode: 10   gained reward: 266.44505495238855
+ Test episode: 11   gained reward: 199.5909098097983
+ Test episode: 12   gained reward: 262.34798168296544
+ Test episode: 13   gained reward: 247.7073683864242
+ Test episode: 14   gained reward: 227.58019588952845
+ Test episode: 15   gained reward: -269.1541025698533
+ Test episode: 16   gained reward: 261.7617897090562
+ Test episode: 17   gained reward: -10.381268442657055
+ Test episode: 18   gained reward: 283.84203770769
+ Test episode: 19   gained reward: 210.27934990423626
+ Test episode: 20   gained reward: 261.44985496030625
+average of evaluation rewards: 132.0068664037147
