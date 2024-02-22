@@ -13,7 +13,11 @@ The `requirements.txt` file should list all Python libraries that the project de
 pip install -r Requirements.txt
 ```
 I keep updating the project to be compatible with new versions of libraries. If there was any problem with the diffrent versions of the required libraries let me know in the "Issues" section, so i can resolve them.  
-  
+
+#### Sample training performance of the agent in each episode of the environment:   
+  In both plots: rewards are shown vertically and episodes are shown horizentally   
+![Average Rewards](https://github.com/MohammadAsadolahi/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Average%20Rewards.png)
+![Total Rewards](https://github.com/MohammadAsadolahi/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Total%20Rewards.png)
   
 **this code is implemented with TensorFlow using Keras! i will add Pytorch version soon!!**  
 #### to do:  
@@ -27,7 +31,30 @@ I keep updating the project to be compatible with new versions of libraries. If 
 * run a standard RL evaluation
 * refactor the project in Pytorch
 
-#### Sample Training process
+#### sample performance of Agent after training for 200 episodes:  
+ Test episode: 1   gained reward: 256.3287448846416  
+ Test episode: 2   gained reward: -266.5255463715048  
+ Test episode: 3   gained reward: -83.38799896225918  
+ Test episode: 4   gained reward: -209.25251056503032  
+ Test episode: 5   gained reward: 248.78689041237715  
+ Test episode: 6   gained reward: 237.58942444329242  
+ Test episode: 7   gained reward: 205.72654972013942  
+ Test episode: 8   gained reward: 131.55612561734586  
+ Test episode: 9   gained reward: 177.84647690540885  
+ Test episode: 10   gained reward: 266.44505495238855  
+ Test episode: 11   gained reward: 199.5909098097983  
+ Test episode: 12   gained reward: 262.34798168296544  
+ Test episode: 13   gained reward: 247.7073683864242  
+ Test episode: 14   gained reward: 227.58019588952845  
+ Test episode: 15   gained reward: -269.1541025698533  
+ Test episode: 16   gained reward: 261.7617897090562  
+ Test episode: 17   gained reward: -10.381268442657055  
+ Test episode: 18   gained reward: 283.84203770769  
+ Test episode: 19   gained reward: 210.27934990423626  
+ Test episode: 20   gained reward: 261.44985496030625  
+average of evaluation rewards: 132.0068664037147  
+
+#### Sample Training process and agent performance in each episode
 episode: 2   reward: -123.4838284048032  avg so far:-123.4838284048032 exploreRate:0.9860940917766235  
 episode: 3   reward: -120.2480775877887  avg so far:-121.86595299629596 exploreRate:0.9333105749632893  
 episode: 4   reward: -124.38843377713812  avg so far:-122.70677992324335 exploreRate:0.8985016297353923  
@@ -227,6 +254,3 @@ episode: 197   reward: 251.92505409186438  avg so far:-30.431876570465622 explor
 episode: 198   reward: 231.71571436577486  avg so far:-29.101178139317195 exploreRate:0.01  
 episode: 199   reward: 272.2123657171065  avg so far:-27.57939256428475 exploreRate:0.01  
 episode: 200   reward: 222.4710808984072  avg so far:-26.32285752175866 exploreRate:0.01     
-#### Sample Results: 
-![Average Rewards](https://github.com/MohammadAsadolahi/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Average%20Rewards.png)
-![Total Rewards](https://github.com/MohammadAsadolahi/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Total%20Rewards.png)
