@@ -14,8 +14,8 @@ I keep updating the project to be compatible with new versions of libraries. If 
 
 #### Sample training performance of the agent in each episode of the environment:   
   In both plots: rewards are shown vertically and episodes are shown horizentally   
-![Average Rewards](https://github.com/MohammadAsadolahi/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Average%20Rewards.png)
-![Total Rewards](https://github.com/MohammadAsadolahi/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Total%20Rewards.png)
+![Average Rewards](https://github.com/Elktrn/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Average%20Rewards.png)
+![Total Rewards](https://github.com/Elktrn/DDQN_Deep-Double_Q-Learning-for-solving-OpenAi-Gym-LunarLander-v2-in-python/blob/main/Results/Total%20Rewards.png)
   
 **this code is implemented with TensorFlow using Keras! i will add Pytorch version soon!!**  
 #### to do:  
