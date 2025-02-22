@@ -4,8 +4,6 @@ Solving Openai gym LunarLanderV2 by using Double DQN***
 Naive TensorFlow (using Keras) implementation of paper:  Deep Reinforcement Learning with Double Q-learning
 https://arxiv.org/abs/1509.06461   
 
-[feel free to ask any question in Issues or just email me]  
-Mohammad.E.Asadolahi@gmail.com
 
 #### How to install requirements
 The `requirements.txt` file should list all Python libraries that the project depend on, and they will be installed using:
